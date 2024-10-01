@@ -1,7 +1,7 @@
 # Hospital Patient Data Analysis
 
 ## Project Overview
-This a final project for SI544 - Introduction to Statistics and Data Analysi at UMich. The project aims to analyze hospital patient data to explore how financial class (Medicare, Private Insurance, etc.) influences patient waiting times and revenue generation. The analysis employs multiple regression models and hypothesis testing using R. 
+This a final project for SI544 - Introduction to Statistics and Data Analysis at UMich. The project aims to analyze hospital patient data to explore how financial class (Medicare, Private Insurance, etc.) influences patient waiting times and revenue generation. The analysis employs multiple regression models and hypothesis testing using R. 
 
 ## Dataset Information
 - **Source**: [Kaggle - Hospital Patient Data](https://www.kaggle.com/datasets/abdulqaderasiirii/hospital-patient-data)
