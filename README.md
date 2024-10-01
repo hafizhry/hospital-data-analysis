@@ -43,10 +43,11 @@ This analysis reveals that financial class affects both the revenue generated an
   - `skimr`
   - `infer`
 
+## Contact
+For further questions or collaboration, feel free to contact me at hafizhry@umich.com.
+
 ## How to Run
 Clone the repository:
    ```bash
    git clone https://github.com/your-username/hospital-patient-data-analysis.git
 
-## Contact
-For further questions or collaboration, feel free to contact me at hafizhry@umich.com.
